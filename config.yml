@@ -3,6 +3,7 @@ repo-name: peripherals-bmc-footprints
 categories:
 - Service Management
 - Ticketing
-display-name: 
+display-name: BMC Footprints
 manufacture: BMC
 product: Footprints
+description: BMC FootPrints is a flexible, comprehensive, integrated IT service and asset management platform that is easy to install, use, and extend to create business value. BMC FootPrints is a web-based, on-premise solution that is quick to install and easy to use.
